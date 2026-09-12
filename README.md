@@ -6,56 +6,64 @@ The project demonstrates React fundamentals including components, props, state m
 
 ## ✨ Features
 
-🏠 Home
-Welcome/introduction section
-Featured products
-Product categories
-Promotional section
-Navigation to other pages
-🛍️ Products
-Display products in reusable cards
-Search products
-Filter products by category
-Sort products
-View product details
-Add products to cart
-🛒 Shopping Cart
-Display selected products
-Increase or decrease product quantity
-Remove products from the cart
-Calculate subtotal
-Calculate delivery fee
-Free delivery for orders of 5,000 ETB or more
-Standard delivery fee of 200 ETB
-Calculate the final order total
-Continue shopping or proceed to checkout
-💳 Checkout
+## 🏠 Home
 
-The checkout page collects customer and order information.
+-Welcome/introduction section
+-Featured products
+-Product categories
+-Promotional section
+-Navigation to other pages
 
-Customer Information
+## 🛍️ Products
 
-Full name
-Ethiopian phone number
-Optional email address
+-Display products in reusable cards
+-Search products
+-Filter products by category
+-Sort products
+-View product details
+-Add products to cart
 
-Payment Methods
+## 🛒 Shopping Cart
 
-Telebirr — requires a valid Telebirr phone number
-CBE — requires a CBE account number
-Cash on Delivery
+-Display selected products
+-Increase or decrease product quantity
+-Remove products from the cart
+-Calculate subtotal
+-Calculate delivery fee
+-Free delivery for orders of 5,000 ETB or more
+-Standard delivery fee of 200 ETB
+-Calculate the final order total
+-Continue shopping or proceed to checkout
 
-Delivery
+## 💳 Checkout
 
-Physical delivery
-Delivery location is required
-Optional delivery notes
-📦 Order Management
-Generate a unique order number
-Display order confirmation
-Save the latest order to localStorage
-Save order history to localStorage
-Clear the cart after a successful order
+-The checkout page collects customer and order information.
+
+## Customer Information
+
+-Full name
+-Ethiopian phone number
+-Optional email address
+
+## Payment Methods
+
+-Telebirr — requires a valid Telebirr phone number.
+-CBE — requires a CBE account number.
+-Cash on Delivery.
+
+## Delivery
+
+-Physical delivery.
+-Delivery location is required.
+-Optional delivery notes.
+
+## 📦 Order Management
+
+-Generate a unique order number.
+-Display order confirmation.
+-Save the latest order to localStorage.
+-Save order history to localStorage.
+-Clear the cart after a successful order.
 
 ## 🛠️ Technologies
 
