@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "name": "Tecno Camon 30",
+    "price": 24500,
+    "category": "Electronics",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+    "description": "A modern smartphone suitable for communication, social media, photography and everyday use."
+  },
+  {
+    "id": 2,
+    "name": "HP Laptop 15",
+    "price": 68500,
+    "category": "Electronics",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+    "description": "Reliable HP laptop suitable for students, office work, programming and online learning."
+  },
+  {
+    "id": 3,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 1850,
+    "category": "Electronics",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "description": "Comfortable wireless headphones with clear sound for music, meetings and entertainment."
+  },
+  {
+    "id": 13,
+    "name": "Samsung Galaxy A55",
+    "price": 42000,
+    "category": "Electronics",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+    "description": "Modern Samsung smartphone with a bright display, excellent camera and strong everyday performance."
+  },
+  {
+    "id": 14,
+    "name": "Dell Inspiron Laptop",
+    "price": 73500,
+    "category": "Electronics",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80",
+    "description": "Versatile laptop designed for students, professionals, programming and entertainment."
+  },
+  {
+    "id": 15,
+    "name": "Portable Bluetooth Speaker",
+    "price": 3200,
+    "category": "Electronics",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+    "description": "Portable wireless speaker with clear audio for home, travel and outdoor entertainment."
+  },
+
+  {
+    "id": 4,
+    "name": "Men's Traditional Ethiopian Shirt",
+    "price": 2200,
+    "category": "Clothing",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "description": "Elegant Ethiopian-inspired traditional shirt suitable for cultural events and celebrations."
+  },
+  {
+    "id": 5,
+    "name": "Women's Cotton Dress",
+    "price": 3200,
+    "category": "Clothing",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=80",
+    "description": "Comfortable cotton dress suitable for everyday wear and casual occasions."
+  },
+  {
+    "id": 16,
+    "name": "Men's Casual Polo Shirt",
+    "price": 1800,
+    "category": "Clothing",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1625910513413-5fc45c8e7f4b?auto=format&fit=crop&w=800&q=80",
+    "description": "Comfortable polo shirt suitable for casual and semi-formal occasions."
+  },
+  {
+    "id": 17,
+    "name": "Women's Blouse",
+    "price": 2100,
+    "category": "Clothing",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=800&q=80",
+    "description": "Stylish women's blouse suitable for office work and casual occasions."
+  },
+  {
+    "id": 18,
+    "name": "Men's Jeans",
+    "price": 2800,
+    "category": "Clothing",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=800&q=80",
+    "description": "Durable and comfortable denim jeans designed for everyday wear."
+  },
+  {
+    "id": 19,
+    "name": "Traditional Habesha Dress",
+    "price": 6500,
+    "category": "Clothing",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?auto=format&fit=crop&w=800&q=80",
+    "description": "Beautiful Ethiopian-inspired traditional dress suitable for celebrations and cultural events."
+  },
+
+  {
+    "id": 6,
+    "name": "Leather Handbag",
+    "price": 2800,
+    "category": "Fashion",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80",
+    "description": "Stylish Ethiopian-inspired leather handbag with enough space for everyday essentials."
+  },
+  {
+    "id": 20,
+    "name": "Classic Sneakers",
+    "price": 4500,
+    "category": "Fashion",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "description": "Comfortable sneakers suitable for walking, casual activities and everyday fashion."
+  },
+  {
+    "id": 21,
+    "name": "Women's Fashion Sandals",
+    "price": 2400,
+    "category": "Fashion",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=800&q=80",
+    "description": "Elegant and comfortable sandals suitable for everyday and special occasions."
+  },
+  {
+    "id": 22,
+    "name": "Men's Leather Belt",
+    "price": 1200,
+    "category": "Fashion",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?auto=format&fit=crop&w=800&q=80",
+    "description": "Classic leather belt that complements both casual and formal clothing."
+  },
+  {
+    "id": 23,
+    "name": "Classic Wrist Watch",
+    "price": 3800,
+    "category": "Fashion",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=800&q=80",
+    "description": "Elegant wrist watch with a classic design suitable for everyday use."
+  },
+  {
+    "id": 24,
+    "name": "Fashion Sunglasses",
+    "price": 1500,
+    "category": "Fashion",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80",
+    "description": "Stylish sunglasses designed for everyday fashion and outdoor activities."
+  },
+
+  {
+    "id": 7,
+    "name": "Natural Shea Body Lotion",
+    "price": 650,
+    "category": "Beauty",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=800&q=80",
+    "description": "Moisturizing body lotion for daily skincare and hydration."
+  },
+  {
+    "id": 25,
+    "name": "Facial Moisturizer",
+    "price": 850,
+    "category": "Beauty",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=800&q=80",
+    "description": "Daily facial moisturizer designed to keep skin soft and hydrated."
+  },
+  {
+    "id": 26,
+    "name": "Natural Hair Oil",
+    "price": 550,
+    "category": "Beauty",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=800&q=80",
+    "description": "Nourishing hair oil designed for healthy-looking and moisturized hair."
+  },
+  {
+    "id": 27,
+    "name": "Perfume for Women",
+    "price": 2200,
+    "category": "Beauty",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80",
+    "description": "Elegant fragrance with a pleasant long-lasting scent."
+  },
+  {
+    "id": 28,
+    "name": "Men's Perfume",
+    "price": 2500,
+    "category": "Beauty",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=800&q=80",
+    "description": "Fresh and sophisticated fragrance suitable for everyday and special occasions."
+  },
+  {
+    "id": 29,
+    "name": "Skincare Gift Set",
+    "price": 2800,
+    "category": "Beauty",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=800&q=80",
+    "description": "Complete skincare gift set containing essential daily skincare products."
+  },
+
+  {
+    "id": 8,
+    "name": "Coffee Ceremony Set",
+    "price": 4500,
+    "category": "Home",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+    "description": "Beautiful Ethiopian coffee ceremony set for serving traditional coffee at home."
+  },
+  {
+    "id": 9,
+    "name": "Jebena Ethiopian Coffee Pot",
+    "price": 1600,
+    "category": "Home",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+    "description": "Traditional Ethiopian jebena suitable for coffee ceremonies and home decoration."
+  },
+  {
+    "id": 30,
+    "name": "Non-Stick Cooking Pan",
+    "price": 2200,
+    "category": "Home",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=800&q=80",
+    "description": "Durable non-stick cooking pan suitable for preparing everyday meals."
+  },
+  {
+    "id": 31,
+    "name": "Electric Kettle",
+    "price": 3200,
+    "category": "Home",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1594213114663-d94db9b171a4?auto=format&fit=crop&w=800&q=80",
+    "description": "Fast electric kettle for preparing hot water, tea and coffee."
+  },
+  {
+    "id": 32,
+    "name": "Modern Table Lamp",
+    "price": 1800,
+    "category": "Home",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+    "description": "Modern table lamp suitable for bedrooms, offices and study areas."
+  },
+  {
+    "id": 33,
+    "name": "Decorative Wall Clock",
+    "price": 2500,
+    "category": "Home",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=800&q=80",
+    "description": "Modern decorative wall clock designed to complement home interiors."
+  },
+
+  {
+    "id": 10,
+    "name": "Ethiopian Sidamo Coffee 1kg",
+    "price": 950,
+    "category": "Groceries",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=800&q=80",
+    "description": "Premium Ethiopian Sidamo coffee with a rich aroma and distinctive flavor."
+  },
+  {
+    "id": 11,
+    "name": "Teff 5kg",
+    "price": 850,
+    "category": "Groceries",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+    "description": "Quality teff suitable for preparing traditional Ethiopian injera."
+  },
+  {
+    "id": 34,
+    "name": "Organic Ethiopian Honey",
+    "price": 750,
+    "category": "Groceries",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=800&q=80",
+    "description": "Natural Ethiopian honey with a rich flavor suitable for tea, breakfast and cooking."
+  },
+  {
+    "id": 35,
+    "name": "Shiro Powder 1kg",
+    "price": 500,
+    "category": "Groceries",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80",
+    "description": "Traditional Ethiopian shiro powder for preparing delicious shiro wat."
+  },
+  {
+    "id": 36,
+    "name": "Berbere Spice 500g",
+    "price": 350,
+    "category": "Groceries",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80",
+    "description": "Traditional Ethiopian berbere spice blend for flavorful local dishes."
+  },
+  {
+    "id": 37,
+    "name": "Lentils 2kg",
+    "price": 420,
+    "category": "Groceries",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1585995228294-7c1f5e3c3d7c?auto=format&fit=crop&w=800&q=80",
+    "description": "Quality dried lentils suitable for preparing healthy Ethiopian meals."
+  },
+
+  {
+    "id": 12,
+    "name": "School Backpack",
+    "price": 1800,
+    "category": "Accessories",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+    "description": "Durable backpack suitable for students, work and everyday travel."
+  },
+  {
+    "id": 38,
+    "name": "Leather Wallet",
+    "price": 950,
+    "category": "Accessories",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80",
+    "description": "Compact leather wallet with space for cards, cash and identification."
+  },
+  {
+    "id": 39,
+    "name": "Travel Water Bottle",
+    "price": 700,
+    "category": "Accessories",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80",
+    "description": "Reusable water bottle suitable for school, work, exercise and travel."
+  },
+  {
+    "id": 40,
+    "name": "USB Flash Drive 64GB",
+    "price": 850,
+    "category": "Accessories",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1624823183493-ed5832f48f18?auto=format&fit=crop&w=800&q=80",
+    "description": "Compact 64GB USB flash drive for storing and transferring files."
+  },
+  {
+    "id": 41,
+    "name": "Phone Protective Case",
+    "price": 450,
+    "category": "Accessories",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1601593346740-925612772716?auto=format&fit=crop&w=800&q=80",
+    "description": "Protective smartphone case designed to reduce scratches and everyday impact."
+  },
+  {
+    "id": 42,
+    "name": "Laptop Shoulder Bag",
+    "price": 2400,
+    "category": "Accessories",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=800&q=80",
+    "description": "Padded laptop shoulder bag suitable for students and professionals."
+  }
+]
