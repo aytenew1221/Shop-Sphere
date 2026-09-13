@@ -84,6 +84,11 @@ This project demonstrates React fundamentals, state management, reusable compone
 
 **Built for React learning and Ethiopian e-commerce practice. 🇪🇹**
 
+## more
+
+https://www.loom.com/share/178a2ecca7644e829499efc522b93f5b
+https://github.com/aytenew1221/Shop-Sphere.git
+
 ## 📄 License
 
 Copywrite ownner @Aytenew, 2026.
